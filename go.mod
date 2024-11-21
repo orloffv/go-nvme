@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/sys v0.1.0
+	go.opentelemetry.io/collector v0.35.0
 )
 
 require (
